@@ -50,7 +50,7 @@ systemctl status nginx
 Navigate to a temporary directory and **clone the repository**:  
 
 ```sh
-git clone https://github.com/pravinmishraaws/my-react-app.git
+git clone https://github.com/Dudubynatur3/my-react-app.git
 cd my-react-app
 ```
 
@@ -153,7 +153,7 @@ Retrieve the **public IP** of your Ubuntu VM:
 curl ifconfig.me
 ```
 
-Now, students can **access the React application** in a browser using:  
+Now, you can **access the React application** in a browser using:  
 
 ```
 http://<your-public-ip>
