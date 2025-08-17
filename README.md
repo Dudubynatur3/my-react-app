@@ -182,4 +182,4 @@ If successful, your **React app is live!**
 Now your **React application** is deployed on an **Ubuntu VM with Nginx**, accessible from a **public IP**. 
 
 # my-react-app
->>>>>>> 2b14a4944c947cbed9882dfd5610aa3807716e68
+
