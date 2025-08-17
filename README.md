@@ -11,7 +11,7 @@
 This guide provides step-by-step instructions to deploy and run a **React application** on an **Ubuntu VM** using **Nginx**, making it accessible from a **public IP**. This project demonstrates complete DevOps implementation from development to production deployment.
 
 ### 🌐 **Live Application**
-![My React App Nginx Deploy](My react app nginx deploy.PNG)
+![My React App Nginx Deploy](MY%20react%20app%20nginx%20deploy.PNG)
 *Screenshot: React application successfully deployed and running in production*
 
 ---
@@ -19,11 +19,11 @@ This guide provides step-by-step instructions to deploy and run a **React applic
 ## 🛠️ **AWS Infrastructure Setup**
 
 ### **EC2 Instance Creation**
-![React Ubuntu Instance](React ubuntu instance.PNG)
+![React Ubuntu Instance](React%20ubuntu%20instance.PNG)
 *Screenshot: AWS EC2 Ubuntu instance configuration in AWS Console*
 
 ### **SSH Connection Setup**
-![Connect React Instance](connect react instance.PNG)
+![Connect React Instance](connect%20react%20instance.PNG)
 *Screenshot: EC2 connection options with SSH access highlighted*
 
 ---
@@ -31,10 +31,10 @@ This guide provides step-by-step instructions to deploy and run a **React applic
 ## 🔐 **Server Access and Initial Setup**
 
 ### **SSH Login Process**
-![SSH Login](ssh login.PNG)
+![SSH Login](ssh%20login.PNG)
 *Screenshot: Initial SSH connection to EC2 instance*
 
-![SSH Login 2](ssh login 2.PNG)
+![SSH Login 2](ssh%20login%202.PNG)
 *Screenshot: Successful SSH login to Ubuntu server*
 
 ---
@@ -130,7 +130,7 @@ npm run build
 
 This will generate a `build/` folder with production-ready static files.
 
-![Build Files](build files.PNG)
+![Build Files](Build%20files.PNG)
 *Screenshot: Build directory contents showing production-ready static files*
 
 ---
@@ -192,7 +192,7 @@ Test Nginx configuration:
 sudo nginx -t
 ```
 
-![Configuration List](configuration list.PNG)
+![Configuration List](configuration%20list.PNG)
 *Screenshot: Nginx configuration test results showing successful syntax validation*
 
 ---
@@ -294,9 +294,11 @@ curl ifconfig.me  # Get your public IP
 
 ## 🌐 **Live Demo**
 
+**🎯 Access the live application:** `http://YOUR-PUBLIC-IP`
 
 **Repository:** [https://github.com/Dudubynatur3/my-react-app](https://github.com/Dudubynatur3/my-react-app)
 
+---
 
 ## 🎓 **Learning Outcomes**
 
@@ -321,5 +323,15 @@ This project demonstrates practical hands-on experience with:
 
 ---
 
+## 🤝 **Connect & Learn More**
 
+**Part of 12-week intensive hands-on AWS training program with Pravin Mishra**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dudubynatur3)
+
+---
+
+**🎉 Project Status: ✅ Successfully Deployed and Live!**
+
+*Made with ❤️ for the developer community - showcasing real-world DevOps implementation*
